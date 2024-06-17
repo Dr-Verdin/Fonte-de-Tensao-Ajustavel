@@ -59,6 +59,4 @@ Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Sim
 
 ## Alunos
 
-Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
--
--
+Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin)
