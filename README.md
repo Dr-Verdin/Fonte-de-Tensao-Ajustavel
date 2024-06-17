@@ -58,6 +58,7 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas.
 
 ## Alunos
+
 Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
 -
 -
