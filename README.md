@@ -34,8 +34,8 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 * **Transistor:** ...
 * **Diodo Zener:** ...
 
-## Diagrama Esquemático
-<img src="./">
+## Protoboard
+<img src="./imagens/img_protoboard.jpeg">
 
 ## Cálculo do Capacitor
 <img src="./">
