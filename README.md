@@ -45,6 +45,8 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 
 ## Link do Circuito no Falstad
 
+https://tinyurl.com/22wl3grj
+
 ## Imagem esquemático da PCB
 <img src="./">
 
