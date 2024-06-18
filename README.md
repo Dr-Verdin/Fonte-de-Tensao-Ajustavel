@@ -40,10 +40,8 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 ## Cálculo do Capacitor
 <img src="./">
 
-## Imagem do Circuito
+## Circuito no Falstad (simulador)
 <img src="./">
-
-## Link do Circuito no Falstad
 
 https://tinyurl.com/22wl3grj
 
