@@ -44,7 +44,7 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 
 Imagem do circuito projetada no simulador Falstad.
 
-<img src="./imagens/Falstad.jpeg">
+<img src="./imagens/Falstad.png">
 
 [link do Falstad](https://tinyurl.com/224r6f9p)
 
