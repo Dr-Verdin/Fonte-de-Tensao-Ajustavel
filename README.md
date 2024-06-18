@@ -41,7 +41,7 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 <img src="./">
 
 ## Circuito no Falstad (simulador)
-<img src="./">
+<img src="./imagens/Falstad.jpeg">
 
 https://tinyurl.com/22wl3grj
 
@@ -60,3 +60,5 @@ Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Sim
 ## Alunos
 
 Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin)
+Godoy
+Rafael
