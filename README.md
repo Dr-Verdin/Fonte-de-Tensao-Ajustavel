@@ -35,15 +35,17 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 * **Diodo Zener:** ...
 
 ## Protoboard
-<img src="./imagens/img_protoboard.jpeg">
+<img src="./imagens">
 
 ## Cálculo do Capacitor
 <img src="./">
 
 ## Circuito no Falstad (simulador)
+
+Imagem do circuito projetada no simulador Falstad.
 <img src="./imagens/Falstad.jpeg">
 
-https://tinyurl.com/22wl3grj
+[link do Falstad](https://tinyurl.com/22wl3grj)
 
 ## Imagem esquemático da PCB
 <img src="./">
