@@ -127,13 +127,13 @@ Imagem do circuito projetada no simulador Falstad.
 [link do Falstad](https://tinyurl.com/2dc3e5lk)
 
 ## Imagem esquemático da PCB
-<img src="./">
+<img src="./imagens/esquematico.png">
 
 ## Imagem PCB no programa Proteus
-<img src="./">
+<img src="./imagens/Proteus.png">
 
 ## Agradecimentos
-Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas.
+Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas.
 
 ## Alunos
 - Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
