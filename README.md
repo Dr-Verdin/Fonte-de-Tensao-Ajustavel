@@ -9,11 +9,11 @@ Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100m
 | Quantidade | Componentes        | Valor Unit. (R$) |
 |------------|--------------------|------------------|
 | 4x         | Diodo 1N4007       |      R$ 0,19     |
-| 1          | Capacitor 470uF    |      R$ 2,72     |
+| 1          | Capacitor 560uF    |      R$ 2,72     |
 | 1          | Led Vermelho 5mm   |      R$ 0,49     |
-| 1          | Resistor 100Ω      |      R$ 0,07     |
 | 1          | Resistor 120Ω      |      R$ 0,07     |
-| 1          | Resistor 470Ω      |      R$ 0,07     |
+| 1          | Resistor 120Ω      |      R$ 0,07     |
+| 1          | Resistor 220Ω      |      R$ 0,07     |
 | 1          | Resistor 5.6kΩ     |      R$ 0,07     |
 | 1          | Resistor 3.2kΩ     |      R$ 0,07     |
 | 1          | Potenciómetro 10k  |      R$ 6,79     |
@@ -39,7 +39,7 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 <img src="./imagens/img_protoboard.jpeg">
 
 ### Vídeo no Youtube
-[Link nada suspeito](https://youtu.be/eNDYn4dvQzQ)
+[Link do vídeo]
 
 ## Cálculos
 ### Razão do Transformador
@@ -86,11 +86,11 @@ $$ i_{LED} = \frac{V_{máxs} - V_{LED}}{R_{LED}} = \frac{24,05V - 1,7V}{5600 \ \
 
 2. Corrente do diodo zener:
 
-$$ i_{zenner} = \frac{V_{máxs} - V_{zenner}}{R_{zenner}} = \frac{24,05V - 13V}{470 \ \Omega} \approx 23,51 \ mA $$
+$$ i_{zenner} = \frac{V_{máxs} - V_{zenner}}{R_{zenner}} = \frac{24,05V - 13V}{220 \ \Omega} \approx 50,22 \ mA $$
 
 3. Corrente do potenciômetro:
 
-$$ i_{potenciômetro} = \frac{V_{máxs}}{R_{potenciômetro}} = \frac{24,05V}{13670 \ \Omega} \approx 1,75 \ mA $$
+$$ i_{potenciômetro} = \frac{V_{máxs}}{R_{potenciômetro}} = \frac{24,05V}{13420 \ \Omega} \approx 1,79 \ mA $$
 
 4. Corrente da carga:
 
@@ -98,7 +98,7 @@ $$ i_{carga} = \frac{V_{zenner} - V_{transistor(be)}}{R_{carga}} = \frac{13V - 0
 
 Somando todas as correntes, obtemos a corrente total:
 
-$$ i_{TOTAL} = 3,99 \ mA + 23,51 \ mA + 1,75 \ mA + 102,38 / mA = 131,63 \ mA $$
+$$ i_{TOTAL} = 3,99 \ mA + 50,22 \ mA + 1,79 \ mA + 102,38 / mA = 158,38 \ mA $$
 
 ### Capacitância
 
@@ -107,9 +107,9 @@ $$ C = \frac{i_{TOTAL}}{f \cdot V_{ripple}} $$
 Onde:
 - f = 120Hz, pois a frequência de saída é o dobro da frequência de entrada devido à retificação em onda completa na ponte.
 
-$$ C = \frac{131,63 \ mA}{120 \ Hz \cdot 2,42 \ V} \approx 453,27 \ \mu F $$
+$$ C = \frac{158,38 \ mA}{120 \ Hz \cdot 2,42 \ V} \approx 545,38 \ \mu F $$
 
-O valor comercial mais próximo do valor teórico é 470 µF.
+O valor comercial mais próximo do valor teórico é 560 µF.
 
 ## Circuito no Falstad (simulador)
 
@@ -117,7 +117,7 @@ Imagem do circuito projetada no simulador Falstad.
 
 <img src="./imagens/img_falstad.png">
 
-[link do Falstad](https://tinyurl.com/2cn9rnxq)
+[link do Falstad](https://tinyurl.com/2dc3e5lk)
 
 ## Imagem esquemático da PCB
 <img src="./">
