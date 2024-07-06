@@ -38,8 +38,15 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 ## Protoboard
 <img src="./imagens/img_protoboard.jpeg">
 
-### Vídeo no Youtube
-[Link do vídeo]
+[link do video no Youtube]()
+
+## Tinkercad
+
+Imagem do circuito no Tinkercad.
+
+<img src="./imagens/Tinkercad.png">
+
+[link do Tinkercad](https://www.tinkercad.com/things/4MVjNDNJ2Dz-fonte-de-tensao-ajustavel)
 
 ## Cálculos
 ### Razão do Transformador
