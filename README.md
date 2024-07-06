@@ -117,7 +117,7 @@ Imagem do circuito projetada no simulador Falstad.
 
 <img src="./imagens/img_falstad.png">
 
-[link do Falstad](https://tinyurl.com/2nkhrl93)
+[link do Falstad](https://tinyurl.com/2cn9rnxq)
 
 ## Imagem esquemático da PCB
 <img src="./">
