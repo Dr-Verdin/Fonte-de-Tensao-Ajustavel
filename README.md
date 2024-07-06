@@ -133,7 +133,7 @@ Imagem do circuito projetada no simulador Falstad.
 <img src="./imagens/Proteus.png">
 
 ## Agradecimentos
-Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas.
+Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto.
 
 ## Alunos
 - Camila Piscioneri Magalhães [(Dr. Verdin)](https://github.com/Dr-Verdin).
