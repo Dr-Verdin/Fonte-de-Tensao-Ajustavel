@@ -136,4 +136,4 @@ Imagem do circuito projetada no simulador Falstad.
 Agradeço ao excelentíssimo professor Eduardo do Valle Simões, vulgo Big Simas, que nos auxiliou na execução desse projeto.
 
 ## Alunos
-- Camila Piscioneri Magalhães ([Dr. Verdin :alien:](https://github.com/Dr-Verdin)).
+- Camila Piscioneri Magalhães ([Dr. Verdin :seedling:](https://github.com/Dr-Verdin)).
