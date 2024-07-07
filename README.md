@@ -38,7 +38,7 @@ A protoboard e o transformador foi adquirida no laboratório com o orientador da
 ## Protoboard
 <img src="./imagens/protoboard.jpeg">
 
-[link do video no Youtube]().
+[link do video no Youtube](https://youtu.be/07gXL1GbmAM?si=wz_SZ0AJ-jtym8W7).
 
 ## Tinkercad
 
